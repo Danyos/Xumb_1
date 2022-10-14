@@ -16,14 +16,17 @@
 // a=b+a//40
 // b=a-b//10
 // a=a-b//30
-x=1
-y=2
-z=5
+let x=1
+let y=2
+let z=5
 
-console.log(1+2*5)
 x=x+1 //2
-y=7 //7
-console.log(x+y*z)
+y=7+z //12
+z=z*y//60
+x+=7
 
+console.log(x)
 
-
+// https://learn.javascript.ru/variables
+// https://learn.javascript.ru/hello-world
+// https://learn.javascript.ru/structure
