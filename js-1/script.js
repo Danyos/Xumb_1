@@ -1,32 +1,35 @@
-// x=7
-// y=5
-// c=0
+// let idram=0;
+//  let vcharum=0;
+// idram+3000
+// idram+300
+//  idram+=1800; 
+//  vcharum=100;
+// idram-=vcharum
+// idram--
+// idram-=1
+// idram+=1
+// idram++
+// --idram
+// ++idram
+// idram--
+// idram*=2
+// let x=100
+// x=idram/x //17
+let dramapanak=50000
+let z=20
+// z*=z*z*z*z
+// z**=4
+dramapanak-=100-(dramapanak*z/100)
+console.log(dramapanak)
 
-// c=x//7
-// x=y //5
-// y=c //7
-
-// console.log("x",x)
-// console.log("y",y)
+// https://learn.javascript.ru/operators
+// https://learn.javascript.ru/types
+let hi="Sam jan Ingan qez chi grum"
 
 
-// // 
-// a=100
-// b=300
-// a=b+a//40
-// b=a-b//10
-// a=a-b//30
-let x=1
-let y=2
-let z=5
 
-x=x+1 //2
-y=7+z //12
-z=z*y//60
-x+=7
 
-console.log(x)
 
-// https://learn.javascript.ru/variables
-// https://learn.javascript.ru/hello-world
-// https://learn.javascript.ru/structure
+
+
+
