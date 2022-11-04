@@ -80,22 +80,24 @@ console.log(result)
 // gtnel amenamecy
 
 // 2 xndir
-// let message;
+let message;
 
-// if (login == 'garik23' && psw == 'Valodya23') {
-//   message = 'Привет';
-// } else if (login == 'Samvel123' && psw == 'Muxi123') {
-//   message = 'Здравствуйте';
-// } else if (login == '' && psw ==') {
-//   message = 'Нет логина';
-// } else {
-//   message = '';
-// }
+if (login == 'garik23' && psw == 'Valodya23') {
+
+  message = 'Привет';
+} else if (login == 'Samvel123' && psw == 'Muxi123') {
+
+  message = 'Здравствуйте';
+} else if (login == '' && psw =='muxiis') {
+  message = 'Нет логина';
+}else{
+  message = '';
+}
+
+
 
 // 3 rd xndir
-
 // let result;
-
 // if (a + b < 4) {
 //   result = 'Мало';
 // } else {
