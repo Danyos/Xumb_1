@@ -91,3 +91,48 @@
 // ]
 
 // https://www.figma.com/file/BURn7pFfYgigkgQfvMNniz/Landing?node-id=580%3A2&t=x1adPTMxDJ9aGHWh-0
+
+// filter
+let x=[1,2,3,4,5,6,7,8,9]
+
+// let y=x.filter(function (par){
+//     if(typeof(par)=="number"){
+//         return true
+//     }
+//     return false
+// })
+// let y2=x.map(function (params){
+//     if(params==5){
+//         return params*5
+//     }
+//     return params
+//
+// })
+// console.log(y2)
+
+// let y2=x.reduce(function (previousValue, currentValue){
+//     return previousValue+currentValue
+// },0)
+
+// console.log(y2)
+// x.forEach(function (params,i){
+//     console.log(params,i)
+// })
+//
+// let y3=x.findIndex(function (params){
+//     if(params===6){
+//         return true
+//     }
+// })
+// console.log(y3)
+
+
+
+
+
+
+
+
+
+
+
