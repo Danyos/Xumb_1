@@ -43,38 +43,9 @@
 
 // tnayin
 
-//1.xndir 2-i nman nuyn kzbunqov. 3 ketov stexcel aynpisi rekursia erb muqtagres
+//1.xndir 2-i nman nuyn kzbunqov. 3 ketov st excel aynpisi rekursia erb muqtagres
 // tiv veradarcni qez parz tvery zangvac (lucel  rekursia) orinak f(7,15)// 7,11,13 || f(7) // 1,3,57 || f(14,2)// 2,5,7,11,13
 // 2. xndir 2-i nman nuyn kzbunqov. 3 ketov stexcel aynpisi
 // ashxati veradarcni zuygeri zangvac  orinak //f(7,15)//[8,10,12,14]
 
 // 3. zangvac unenal jnjel krknvoxnery andamnery (rekursiayov)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
